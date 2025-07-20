@@ -1,15 +1,14 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+I did my best to make this
+[🔗 Live Demo](https://faizanfazi05.github.io/Case-Converter/)
 
 ## Available Scripts
 
 In the project directory, you can run:
 
 ### `npm start`
-I did my best to make this
-[🔗 Live Demo](https://faizanfazi05.github.io/Case-Converter/)
-
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
